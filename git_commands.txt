@@ -1,1 +1,8 @@
 git init
+git config --global user.name "Uttam"
+git config --global user.email "devopswithuttam@gamil.com"
+git status
+git add filename
+git commit -m "Message"
+git restore filename
+git push origin main
