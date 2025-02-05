@@ -6,3 +6,7 @@ git add filename
 git commit -m "Message"
 git restore filename
 git push origin main
+
+git checkout branchname
+
+git push origin dev(Branch Name)
